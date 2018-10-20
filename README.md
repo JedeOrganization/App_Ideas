@@ -3,7 +3,7 @@
 
 ### App Description
 
-Description- User searches us some criteria and for a place to hangout and then the results show of which places would suit the users likings based on their search filters.
+Description- User searches up some criteria and for a place to hangout and then the results show of which places would suit the users likings based on their search filters.
 
 ### App Idea Evaluation
 
