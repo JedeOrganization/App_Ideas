@@ -1,6 +1,5 @@
-## APP_NAME_HERE
+## JEDE Hangouts
 
-JEDE Hangouts
 
 ### App Description
 
