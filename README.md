@@ -22,7 +22,6 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
 1. User can choose their location, and hobbies through a drop down menu
 2. The user can see the most popular area to hangout. 
 
