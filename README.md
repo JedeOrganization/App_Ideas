@@ -25,7 +25,36 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 1. User can choose their location, and hobbies through a drop down menu
 2. The user can see the most popular area to hangout. 
 
----
+**Optional Nice-to-have Stories**
+
+ * [fill in your required user stories here]
+ * ...
+
+## 2. Screen Archetypes
+
+ * [list first screen here]
+   * [list associated required story here]
+   * ...
+ * [list second screen here]
+   * [list associated required story here]
+   * ...
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * [fill out your first tab]
+ * [fill out your second tab]
+ * [fill out your third tab]
+
+**Flow Navigation** (Screen to Screen)
+
+ * [list first screen here]
+   * [list screen navigation here]
+   * ...
+ * [list second screen here]
+   * [list screen navigation here]
+   * ...
 
 ### Wireframes
 // TODO: Add Wireframe Images
