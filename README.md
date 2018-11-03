@@ -22,40 +22,87 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 ---
 
 ### User Stories
-1. User can choose their location, and hobbies through a drop down menu
-2. The user can see the most popular area to hangout. 
+#### [Required User Stories]
 
-**Optional Nice-to-have Stories**
+- User can create an account
+- User can login to their account
+- User can input your hobbies
+- User can access locations
+- User can share their location of activity
+- User can input/share their hobbies
+- User can view recomendations related to their hobbies
+- User can rate location of activity 
+- User can check other activities around location
 
- * [fill in your required user stories here]
- * ...
+#### [Optional User Stories]
+- User can share through their social media
+- User can take pictures of location activity
+- User can take videos of location activity
+- User can create events for other users to go
+- User can create local events for other users to participate
+- User can add and invite friends
+
 
 ## 2. Screen Archetypes
 
- * [list first screen here]
-   * [list associated required story here]
-   * ...
- * [list second screen here]
-   * [list associated required story here]
-   * ...
+- login/signup
+- Stream
+- Detail
+- Creation
+- Profile
+- Setting
+- Map View
+- Onboarding
+- Messaging
+- Media Players
+- Calender
 
 ## 3. Navigation
+**Tab Navigation (Tab to Screen)**
 
-**Tab Navigation** (Tab to Screen)
+#### [First tab]
+- Activities
+#### [Second tab]
+- Bulletin
+#### [Third tab]
+- Profile
+#### [Fourth tab]
+- Settings
 
- * [fill out your first tab]
- * [fill out your second tab]
- * [fill out your third tab]
+**Flow Navigation (Screen to Screen)** 
 
-**Flow Navigation** (Screen to Screen)
+[list first screen here]
+- Login/Signup
+[list screen navigation here]
 
- * [list first screen here]
-   * [list screen navigation here]
-   * ...
- * [list second screen here]
-   * [list screen navigation here]
-   * ...
+- Login/Signup
+ =>home/Onboarding
+ 
 
+[list second screen here]
+
+- Stream/Detail/Creation
+
+[list screen navigation here]
+
+- Stream/Detail/Creation
+=>activities/events
+- =>profile
+- - => Messenging
+- Media Player
+
+=>setttings
+
+[list second screen here]
+
+- Activities/Events
+
+[list screen navigation here]
+
+- Activities/Events
+=>Calender
+    =>Map View
+    
 ### Wireframes
 // TODO: Add Wireframe Images
 
