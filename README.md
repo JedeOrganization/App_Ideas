@@ -105,7 +105,7 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
     
 ### Wireframes
 // TODO: Add Wireframe Images
-
+<a href="https://ibb.co/fv8Szf"><img src="https://thumb.ibb.co/fv8Szf/wireframejpeg.jpg" alt="wireframejpeg" border="0"></a>
 ---
 
 ### App Pitch Presentation
