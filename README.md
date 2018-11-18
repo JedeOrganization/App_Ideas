@@ -107,6 +107,7 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 <a href="https://ibb.co/fsvws0"><img src="https://thumb.ibb.co/fsvws0/wireframe-edited1.jpg" alt="wireframe-edited1" border="0"></a><a href="https://ibb.co/bQp0Kf"><img src="https://thumb.ibb.co/bQp0Kf/wireframe-edited2.jpg" alt="wireframe-edited2" border="0"></a>
 ---
 
+<img src="https://i.imgur.com/DDskIqz.gif" width=200><br>
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
