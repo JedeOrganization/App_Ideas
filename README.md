@@ -104,7 +104,7 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
     =>Map View
     
 ### Wireframes
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bVUi14T"><a href="//imgur.com/bVUi14T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bVUi14T" data-context="false"><a href="//imgur.com/bVUi14T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ---
 
 
