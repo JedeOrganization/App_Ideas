@@ -104,9 +104,10 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
     =>Map View
     
 ### Wireframes
-// TODO: Add Wireframe Images
-<a href="https://ibb.co/fsvws0"><img src="https://thumb.ibb.co/fsvws0/wireframe-edited1.jpg" alt="wireframe-edited1" border="0"></a><a href="https://ibb.co/bQp0Kf"><img src="https://thumb.ibb.co/bQp0Kf/wireframe-edited2.jpg" alt="wireframe-edited2" border="0"></a>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bVUi14T"><a href="//imgur.com/bVUi14T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ---
+
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
