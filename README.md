@@ -109,5 +109,11 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 
 <img src="https://i.imgur.com/DDskIqz.gif" width=200><br>
 
+### UPDATED Wireframed
+
+<img src="https://i.imgur.com/QX6lJlw.gif" width=200><br>
+
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+
+JEDE Hangouts Slides:
+https://docs.google.com/presentation/d/15TB9UxOZQQVJz0AAreZcAgSUcrZiu_xo3CGpF1xseSA/edit#slide=id.g46191e9b52_0_247
