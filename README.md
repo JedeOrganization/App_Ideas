@@ -109,7 +109,7 @@ Scope: - V1 will give popular areas near your area. Might be able to use API in 
 
 <img src="https://i.imgur.com/DDskIqz.gif" width=200><br>
 
-### UPDATED Wireframed
+### UPDATED Wireframe
 
 <img src="https://i.imgur.com/QX6lJlw.gif" width=200><br>
 
